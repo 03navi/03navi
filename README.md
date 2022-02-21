@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @03navi
+- 👀 I’m interested in learning new things that are challenging yet exciting !!
+- 🌱 I’m currently learning C++
+- 📫 How to reach me :
+https://www.linkedin.com/in/vaishnavi03/
